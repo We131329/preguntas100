@@ -10,5 +10,5 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] }),
     viteSingleFile()
   ],
-  base:'./'
+  base: '/we131329/',
 })
